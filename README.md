@@ -46,8 +46,10 @@ FAST-NUCES
 ## How to Compile and Run
 **Step 1 — Compile:**
 g++ proj.cpp -o datavault.exe -lws2_32 -std=c++17
+
 **Step 2 — Run the server:**
 ./datavault.exe
+
 **Step 3 — Open the frontend:**  
 Double-click datavault.html in File Explorer
 
